@@ -14,4 +14,4 @@ Just run the script and follow the instructions. You only need to call the victi
 - `sudo ./SnapIPLeak.sh`
 
 ## Important Notes
-For those of you who are having trouble: please, **you must call the victim exactly when the script asks you to**, not before and not after, **_because the IP leaks in the first few seconds of the call_**. If you call before running the script or before it tells you to call, it won’t work.
+For those of you who are having trouble: please, **you must call the victim exactly when the script asks you to**, not before and not after, **_because the IP leaks in the first few seconds of the call_**. If you call before executing the script or after it tells you to call, it won’t work.
